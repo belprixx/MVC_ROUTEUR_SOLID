@@ -1,0 +1,19 @@
+{
+    "name": "theo/mvc_routeur_solid",
+    "require": {
+        "friendsofphp/php-cs-fixer": "^2.14"
+    },
+    "authors": [
+        {
+            "name": "Theo Tison",
+            "email": "tison.theo@gmail.com"
+        }
+    ],
+    "autoload":{
+        "psr-4":{
+            "App\\":"src"
+            }
+        },
+        "require": {}
+    }
+}
